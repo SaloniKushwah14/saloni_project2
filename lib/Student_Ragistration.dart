@@ -304,7 +304,6 @@ class StudentRagistrationState extends State<StudentRagistration> {
         ),
       ),
     );
-
   }
 
   void _submitForm() {
